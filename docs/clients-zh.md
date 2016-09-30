@@ -17,6 +17,11 @@
   * [Chromebook](#chromebook)
   * [Windows Phone](#windows-phone)
   * [Linux](#linux)
+* [故障排除](#故障排除)
+  * [Windows 错误 809](#windows-错误-809)
+  * [Windows 错误 628](#windows-错误-628)
+  * [Android 6.0 and 7.0](#android-60-and-70)
+  * [其它错误](#其它错误)
 
 ## Windows
 

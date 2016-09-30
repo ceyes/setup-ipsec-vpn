@@ -117,11 +117,13 @@ DigitalOcean 用户可以参考这个<a href="https://usefulpcguide.com/17318/cr
 
 <a href="docs/ikev2-howto-zh.md" target="_blank">如何配置 IKEv2 VPN: Windows 7 和更新版本</a>
 
+如果在连接过程中遇到错误，请参见 <a href="docs/clients-zh.md#故障排除" target="_blank">故障排除</a>。
+
 开始使用自己的专属 VPN ! :sparkles::tada::rocket::sparkles:
 
 ## 重要提示
 
-**Windows 和 Android 6.0/7.0 用户**： 如果在连接过程中遇到错误，请参见 <a href="docs/clients-zh.md#故障排除" target="_blank">故障排除</a>。
+**Windows 和 Android 用户**： 如果在连接过程中遇到错误，请参见 <a href="docs/clients-zh.md#故障排除" target="_blank">故障排除</a>。
 
 如果需要添加，修改或者删除 VPN 用户账户，请参见 <a href="docs/manage-users-zh.md" target="_blank">管理 VPN 用户</a>。
 

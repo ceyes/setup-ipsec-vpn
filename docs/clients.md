@@ -17,6 +17,11 @@ An alternative <a href="https://usefulpcguide.com/17318/create-your-own-vpn/" ta
   * [Chromebook](#chromebook)
   * [Windows Phone](#windows-phone)
   * [Linux](#linux)
+* [Troubleshooting](#troubleshooting)
+  * [Windows Error 809](#windows-error-809)
+  * [Windows Error 628](#windows-error-628)
+  * [Android 6.0 and 7.0](#android-60-and-70)
+  * [Other Errors](#other-errors)
 
 ## Windows
 
@@ -242,7 +247,7 @@ http://www.tp-link.com/en/faq-1029.html
 
 ## Credits
 
-This document was adapted from the <a href="https://github.com/jlund/streisand" target="_blank">Streisand</a> project by Joshua Lund and contributors.
+This document was adapted from the <a href="https://github.com/jlund/streisand" target="_blank">Streisand</a> project, maintained by Joshua Lund and contributors.
 
 ## License
 
